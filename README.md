@@ -1,4 +1,4 @@
-
+![Alt text](https://github.com/AndreaBot/AndreaBot/blob/main/panoramica-sul-lago-d.jpg)
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">An aspiring iOS dev from Italy, currently living in England</h3>
 
