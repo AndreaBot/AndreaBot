@@ -1,6 +1,8 @@
 ![Alt text](https://github.com/AndreaBot/AndreaBot/blob/main/panoramica-sul-lago-d.jpg)
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">An aspiring iOS dev from Italy, currently living in England</h3>
+<img align="right" alt="Coding" width="300" src="https://github.com/AndreaBot/AndreaBot/blob/main/image_processing20211030-4633-19uq0zy.gif">
+
 
 - 🌱 I’m currently learning **SwiftUI and mobile app development**
 
