@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">An aspiring iOS dev from Italy, currently living in England</h3>
 
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif)" width="200" height="200" />
+
 - 🌱 I’m currently learning **SwiftUI and mobile app development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndreaBot](https://github.com/AndreaBot)
